@@ -7,4 +7,5 @@ This thesis presents some basic image processing algorithms, focusing on their m
 ## Streszczenie w języku polskim
 Praca przedstawia niektóre podstawowe algorytmy przetwarzania obrazu, koncentrując się na ich fundamentach matematycznych. Celem opracowania jest wyjaśnienie działania codziennie stosowanych operacji obróbki fotografii, takich jak zmiana jasności i kontrastu, obrót, skalowanie, rozmazywanie oraz wyostrzanie obrazu. Omówiono również implementację algorytmu wykrywającego okręgi na obrazie za pomocą transformaty Hougha. Aby ułatwić zrozumienie podstawowych procesów, w opracowaniu zastosowano uproszczenia i pominięto niektóre złożone aspekty. Na końcu pracy zamieszczono implementację większości omawianych algorytmów, przeprowadzoną w języku programowania Python. Do eksperymentów użyto obrazów w formacie .jpg, reprezentowanych w skali szarości.
 
-
+## What is necessary to run a code?
+You need some libraries to run a code from file interaktywne_okno_kod_do_pracy.py and wykrywanie_okregow_kod_do_pracy.py. This project uses \empth{OpenCV, Matplotlib and NumPy} libraries apart from standard libraries.  
